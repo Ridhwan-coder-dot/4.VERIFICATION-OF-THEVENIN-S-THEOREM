@@ -1,4 +1,4 @@
-![47826731-ee32-4f19-80d8-e0957a432553](https://github.com/user-attachments/assets/bc5a5dbe-7fd7-4668-935a-f1083d7dc926)# 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+
 
 **AIM:**
 
