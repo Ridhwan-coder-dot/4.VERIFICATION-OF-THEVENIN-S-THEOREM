@@ -1,4 +1,4 @@
-# 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+![47826731-ee32-4f19-80d8-e0957a432553](https://github.com/user-attachments/assets/bc5a5dbe-7fd7-4668-935a-f1083d7dc926)# 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
 **AIM:**
 
@@ -32,23 +32,24 @@ Thevenin’s Resistance, RTh:
 
 It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
-**CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
+**CIRCUIT DIAGRAM:**
 
-To measure IL
+![068f9a7b-0cd5-4c0f-8708-44697ed311ea](https://github.com/user-attachments/assets/7512e370-92f2-4f86-af94-97d8f7eaa9ca)
 
-<img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
+**THEORETICAL CALCULATION:**
 
-To measure RTh or RN
+![47826731-ee32-4f19-80d8-e0957a432553](https://github.com/user-attachments/assets/5e320c3a-cae7-4525-b2a6-aaeaf2c56c46)
 
-<img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
 
-To measure VTh or Voc
+**OBSERVATION TABLE:**
 
-<img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
+![700f7d8d-520b-44b6-be34-61e7785fa201](https://github.com/user-attachments/assets/8950955f-ac94-4d05-92d5-434997e06215)
 
-Thevenin’s equivalent circuit
 
-<img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+**MARK SPLIT UP:**
+
+
+![0d921fde-b006-4254-b125-3ed72e9ec4d0](https://github.com/user-attachments/assets/5a597656-fb5c-4336-be59-8723b91946d1)
 
 
 **PROCEDURE:**
